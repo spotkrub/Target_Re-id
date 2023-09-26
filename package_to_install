@@ -1,0 +1,10 @@
+-install 
+pytorch
+pandas
+yaml
+seaborn
+tqdm
+
+
+-upgrade
+psutil
